@@ -21,11 +21,8 @@
  </div>
  
 ### SKILLS:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&color=0D1117)](https://nodejs.org/)
+
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Kotlin)
 [![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=delphi&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Delphi)
 
 
