@@ -24,7 +24,7 @@
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Kotlin)
 [![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=delphi&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Delphi)
-[![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Java)
+[![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&color=0D1117)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Java)
 
 
 
